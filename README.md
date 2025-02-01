@@ -1,4 +1,4 @@
-## Hi🌼
+## Hi 🐇🪴
 
 ```python
 class oridotexe:
@@ -11,7 +11,7 @@ class oridotexe:
         self.challenge = "I am currently exploring Data Science techniques and trying to keep up with LeetCode."
 
     def introduce(self):
-        return (f"Hi! I'm ori and I'm currently studying Software Engineering at UNET🌱\n")
+        return (f"Hi! I'm ori and I'm currently studying Software Engineering at UNET🌱")
 
 me = oridotexe()
 me = say_hi()
