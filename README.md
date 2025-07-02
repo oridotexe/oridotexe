@@ -3,9 +3,9 @@
 ```python
 class oridotexe:
     def __init__(self):
-        self.pronouns = ("she", "her")
+        self.pronouns = ("she/her")
         self.language_spoken = ["Spanish", "English"]
-        self.code = ["Python", "C++", "C#", "CSS"]
+        self.code = ["Python", "C++", "C#", "Go"]
         self.interests = ["Data Science", "Machine Learning", "Data Visualization"]
         self.hobbies = ["Music", "Gardening", "Baking Cookies", "Mathematics", "Learning New Things:D"]
         self.challenge = "I am currently exploring some Data Science techniques and trying to keep up with LeetCode."
