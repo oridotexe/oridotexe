@@ -8,7 +8,7 @@ class oridotexe:
         self.code = ["Python", "C++", "C#", "Go"]
         self.interests = ["Data Science", "Machine Learning", "Data Visualization"]
         self.hobbies = ["Music", "Gardening", "Baking Cookies", "Mathematics", "Learning New Things:D"]
-        self.challenge = "I am currently exploring some Data Science techniques and trying to keep up with LeetCode."
+        self.challenge = "I am currently exploring some Data Science techniques."
 
     def introduce(self):
         return (f"Hi! I'm ori and I'm currently studying Software Engineering at UNET🌱")
